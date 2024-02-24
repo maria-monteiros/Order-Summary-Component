@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL - [https://order-summary-component-challeng-fem.netlify.app/]
+- Live Site URL - [https://order-summary-component-challeng-fem.netlify.app/] (https://order-summary-component-challeng-fem.netlify.app/)
 
 # Author 
 
